@@ -1,26 +1,8 @@
 # ClusteringMethods
 Foundations of Hierarchical Clustering
 
-<<<<<<< HEAD
----
-title: "Clustering Gerarchico in R"
-author: "Giovanni Del Piano"
-date: "2025-03-22"
-output:
-  html_document:
-    toc: true
-    toc_float: true
-    toc_depth: 3
-    df_print: paged
-    css: custom.css
-  pdf_document:
-    toc: true
-    toc_depth: '3'
----
-[GitHub](https://github.com/DeSlowe/ClusteringMethods.git)
+[RPubs](https://rpubs.com/DelPiano/ClusteringMethods)
 
-=======
->>>>>>> 40ccd75d5f215828cfa4d718bb08b74d86eefddf
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   eval = TRUE,    # Ensure all chunks execute
