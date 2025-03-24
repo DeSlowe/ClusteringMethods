@@ -3,7 +3,7 @@ Foundations of Hierarchical Clustering
 
 
 [GitHub](https://github.com/DeSlowe/ClusteringMethods.git)
-
+[RPubs](https://rpubs.com/DelPiano/ClusteringMethods)
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   eval = TRUE,    # Ensure all chunks execute
