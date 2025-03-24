@@ -1,6 +1,7 @@
 # ClusteringMethods
 Foundations of Hierarchical Clustering
 
+<<<<<<< HEAD
 ---
 title: "Clustering Gerarchico in R"
 author: "Giovanni Del Piano"
@@ -18,6 +19,8 @@ output:
 ---
 [GitHub](https://github.com/DeSlowe/ClusteringMethods.git)
 
+=======
+>>>>>>> 40ccd75d5f215828cfa4d718bb08b74d86eefddf
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   eval = TRUE,    # Ensure all chunks execute
